@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is my README file for CSC426 class. I am currently learning about Open Source. My pronouns are she/her. A fun fact about me is that I used to be a gymnast.
 
 <!--
 **jacciboggs/jacciboggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
